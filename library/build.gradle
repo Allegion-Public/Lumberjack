@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'com.github.MFlisar'
+group = 'com.github.Allegion-Public'
 
 android {
     if (project.hasProperty('setup.compileSdk'))
